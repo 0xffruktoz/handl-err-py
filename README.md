@@ -23,4 +23,4 @@ Create an instance
 ```
 
 ## For help
-FatihFruktoz#0649
+[^1]:FatihFruktoz#0649
