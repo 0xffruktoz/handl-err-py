@@ -1,7 +1,7 @@
 ## Handl-Err .Py
 *Python error handler for debugging.*
 
---- Using
+---Using
 ```python
   pip install Handlerrpy
 ```
